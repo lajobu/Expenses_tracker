@@ -16,6 +16,26 @@ Database: SQLite3
 
 ![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Login.png)
 
+2) Index screen:
+
+![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Index.png)
+
+3) Data form - Income screen:
+
+![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Income.png)
+
+4) Data form - Outcome screen:
+
+![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Outcome.png)
+
+5) Analysis screen:
+
+![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Analysis.png)
+
+6) Graphs screen:
+
+![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Graphs.png)
+
 - User manual:
 
 An email should be sent to the administrator: admin@gmailp.com for the creation of a new
