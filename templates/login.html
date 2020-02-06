@@ -1,0 +1,134 @@
+<html>
+
+<head>
+    <script>
+        function validateLogin() {
+            var x = document.forms["login-form"]["username"].value;
+            if (x == null || x == "") {
+                alert("The username should be introduced");
+                return false;
+            }
+            var y = document.forms["login-form"]["password"].value;
+            if (y == null || y == "") {
+                alert("Password should be introduced");
+                return false;
+            }
+        }
+    </script>
+
+</head>
+
+<body>
+    <div id="form1">
+        <form name="login-form" action="/login" onsubmit="return validateLogin()" target="_self" method="POST">
+
+            <h2>Please enter your login:</h2>
+
+            {% if error %}
+            <p>{{ error }}</p>
+            {% endif %}
+            <input type="text" name="username" placeholder="Username"><br>
+            <input type="password" name="password" placeholder="Password"><br>
+            <input type="submit" value="Submit"><br>
+        </form>
+    </div>
+</body>
+
+</html>
+
+<style type="text/css">
+    @import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+    html,
+    body {
+        background-image: url("https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80");
+        background-repeat: repeat;
+        background-position: center;
+        background-attachment: flex;
+        text-align: center;
+        font-family: 'Raleway', Helvetica, sans-serif;
+        min-width: 320px;
+    }
+    
+    #form1 {
+        margin: 40px auto;
+        padding: 10px;
+        border: 3px solid;
+        border-radius: 50px;
+        background-color: #60e2dbe5;
+        color: black;
+        font-weight: bold;
+        height: 175px;
+        width: 325px;
+    }
+    
+    header {
+        font-size: 2em;
+        font-weight: bold;
+        margin: 20px;
+    }
+    
+    .labels {
+        display: inline-block;
+        text-align: right;
+        width: 20%;
+        padding: 5px;
+        vertical-align: top;
+        margin-top: 10px;
+        font-weight: bold;
+    }
+    
+    .rightTab {
+        display: inline-block;
+        text-align: left;
+        width: 48%;
+        vertical-align: middle;
+        background-color: #60e2dce8;
+    }
+    
+    .input-field {
+        height: 20px;
+        width: 175px;
+        padding: 4px;
+        margin: 8px;
+        border: 1px solid;
+        border-radius: 5px;
+    }
+    
+    #submit {
+        background-color: #09f7c3e7;
+        border-radius: 4px;
+        color: black;
+        font-size: 1em;
+        height: 40px;
+        width: 96px;
+        margin: 10px;
+        border: 2px solid;
+        border-radius: 50px;
+    }
+    
+    @media screen and (max-width: 833px) {
+        .input-field {
+            width: 80%;
+        }
+        select {
+            width: 90%;
+        }
+    }
+    
+    @media screen and (max-width: 520px) {
+        .labels {
+            width: 100%;
+            text-align: left;
+        }
+        .rightTab {
+            width: 80%;
+            float: left;
+        }
+        .input-field {
+            width: 100%;
+        }
+        select {
+            width: 100%;
+        }
+    }
+</style>

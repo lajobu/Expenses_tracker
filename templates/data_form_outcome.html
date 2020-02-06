@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="/static/css/outcome.css">
+</head>
+<nav id="index">
+    <header>Menu:</header>
+    <ol>
+        <a href="index.html">
+            <li>🏠 Main page</li>
+        </a>
+        <a href="data_form_income.html">
+            <li>📝 Income ➕</li>
+            <a href="data_form_outcome.html">
+                <li>📝 Outcome ➖</li>
+            </a>
+            <a href="analysis.html">
+                <li>🧐 Analysis
+                </li>
+            </a>
+            <a href="graphs.html">
+                <li>📊 Graphs
+                </li>
+            </a>
+        </a>
+        <a href="logout.html">
+            <li> 😥 Logout
+            </li>
+        </a>
+    </ol>
+</nav>
+<!-- Main content -->
+<main id="main-doc">
+    <td class="main-section" id="introduction">
+        <header>Data form:</header>
+
+        <div id="contents">
+            <form method="POST" action="/data_form_outcome.html">
+                <table cellspacing="0" cellpadding="0" id="table_one">
+                    <tr>
+                        <td><b>
+                                👇 OUTCOME:
+                            </b></td>
+                        <td><b>
+                                Introduce data:
+                            </b></td>
+                    </tr>
+                    <!-- ID_user: -->
+                    <tr>
+                        <td><u>
+                                ▶ Username:
+                            </u></td>
+                        <td>
+                            <div class="rightTab">
+                                <select id="ID_user" name="ID_user" class="dropdown" required>
+                                        <option disabled selected value>Select the user</option>
+                                        <option value=10>jorge10</option>
+                                        <option value=11>alex11</option>
+                                        <option value=12">robert12</option>
+                                        <option value="13">joanna13</option>
+                                    </select>
+                            </div>
+
+                        </td>
+                    </tr>
+                    <!-- ID_vendor: -->
+                    <tr>
+                        <td><u>
+                                ▶ Vendor:
+                            </u></td>
+                        <td>
+                            <div class="rightTab">
+                                <select id="ID_vendor" name="ID_vendor" class="dropdown" required>
+                                        <option disabled selected value>Select the vendor</option>
+                                        <option value="10">Biedronka</option>
+                                        <option value="11">Carrefour</option>
+                                        <option value="12">Netflix</option>
+                                        <option value="13">Spotify</option>
+                                        <option value="14">PSN</option>
+                                        <option value="15">Bar</option>
+                                        <option value="16">Dicoclub</option>
+                                        <option value="17">Cinema</option>
+                                        <option value="18">Landlord garage</option>
+                                        <option value="19">Landlord house</option>
+                                        <option value="20">Train company</option>
+                                        <option value="21">Bus company</option>
+                                        <option value="22">Airline company</option>
+                                        <option value="23">BP</option>
+                                        <option value="24">Lotos</option>
+                                        <option value="25">Other</option>
+                                    </select>
+                            </div>
+
+                        </td>
+                    </tr>
+                    <!-- ID_category: -->
+                    <tr>
+                        <td><u>▶ Category:</u></td>
+                        <td>
+                            <div class="rightTab">
+                                <select id="ID_category" name="ID_category" class="dropdown" required>
+                                        <option disabled selected value>Select the category</option>
+                                        <option value="22">Food</option>
+                                        <option value="23">Parties</option>
+                                        <option value="24">Petrol</option>
+                                        <option value="25">Rent</option>
+                                        <option value="26">Multimedia services</option>
+                                        <option value="27">University</option>
+                                        <option value="28">Travels</option>
+                                        <option value="29">Transport</option>
+                                        <option value="10">Other</option>
+                                    </select>
+                        </td>
+                        <!-- amount_outcome: -->
+                        <tr>
+                            <td><u>▶ Amount:</u></td>
+                            <td>
+                                <div class="rightTab">
+                                    <input type="number" name="amount_outcome" id="amount_outcome" min="0" max="10000" step="0.01" class="input-field" placeholder="Amount 0.00" required>
+                                </div>
+                            </td>
+                            <!-- currency_income: -->
+                            <tr>
+                                <td><u>▶ Currency:</u></td>
+                                <td>
+                                    <div class="rightTab">
+                                        <select id="currency_outcome" name="currency_outcome" class="dropdown" required>
+                                                <option disabled selected value>Select the currency</option>
+                                                <option value="pln">PLN</option>
+                                                <option value="eur">EUR</option>
+                                                </td>
+                                    <!-- date month:-->
+                                    <tr>
+                                        <td><u>
+                                            ▶ Date (month):
+                                        </u></td>
+                                        <td>
+                                            <div class="rightTab">
+                                                <select id="date_outcome" name="date_outcome" class="dropdown" required>
+                                                    <option disabled selected value>Select the month</option>
+                                                    <option value="Jan">January</option>
+                                                    <option value="Feb">February</option>
+                                                    <option value="Mar">March</option>
+                                                    <option value="Apr">April</option>
+                                                    <option value="May">June</option>
+                                                    <option value="Jun">July</option>
+                                                    <option value="Aug">August</option>
+                                                    <option value="Sep">September</option>
+                                                    <option value="Oct">October</option>
+                                                    <option value="Nov">November</option>
+                                                    <option value="Dec">December</option>
+                                                </select>
+                                    </div>
+
+                                </td>
+                            </tr>
+                            <!-- date year:-->
+                            <tr>
+                                <td><u>
+                                            ▶ Date (year):
+                                        </u></td>
+                                <td>
+                                    <div class="rightTab">
+                                        <select id="date_outcome1" name="date_outcome1" class="dropdown" required>
+                                                    <option disabled selected value>Select the year</option>
+                                                    <option value="2017">2017</option>
+                                                    <option value="2018">2018</option>
+                                                    <option value="2019">2019</option>
+                                                    <option value="2020">2020</option>
+                                                </select>
+                                    </div>
+
+                                </td>
+                            </tr>
+                            <!-- p_m_outcome: -->
+                            <tr>
+                                <td><u>▶ Payment method:</u></td>
+                                <td>
+                                    <div class="rightTab">
+                                        <select id="p_m_outcome" name="p_m_outcome" class="dropdown" required>
+                                                    <option disabled selected value>Select the payment method</option>
+                                                    <option value="cash">Cash</option>
+                                                    <option value="bank_transfer">Bank transfer</option>
+                                                    </td>
+                                        <tr>
+                                            <!-- comment_outcome: -->
+                                            <td><u>Comments:</u></td>
+                                            <td><label id="comment_outcome" for="comment_outcome"> </label>
+                                                </div>
+            <div class="rightTab">
+            <input autofocus type="text" name="comment_outcome" id="comment_outcome" class="input-field" placeholder="Enter an optional comment"></td>
+        </td>
+        <tr>
+            <!-- submit: -->
+            <td>
+                </div>
+                <button id="submit_outcome" type="submit_outcome" value="Post">Submit OUTCOME ➕</button>
+                </form>
+                </div></td>
+        </tr>
+        </table>
+        
+        </td>
+        </tr>
+        </table>
+        <p><i>▶ Are mandatory fields.</i></p>
+        <p><i>📩 Please in case of need a new option do not hesitate to contact the administrator: admin@gmailp.com</i></p>
+        </div>
+        
+        </html>
+</html>
