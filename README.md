@@ -2,15 +2,15 @@
 
 Here you can find my first web app project.
 
-Front-end: HTML, CSS and JavaScript
+- Front-end: HTML, CSS and JavaScript
 
-Back-end: Python (numpy, pandas and matplotlib)
+- Back-end: Python (numpy, pandas and matplotlib)
 
-Framework: Flask
+- Framework: Flask
 
-Database: SQLite3
+- Database: SQLite3
 
--Main funtionalities:
+- Main funtionalities:
 
 The Expenses tracker web app could give the user a web tool to login with one username and
 password, in order to introduce the outcomes and incomes. Once the data is introduced, the
