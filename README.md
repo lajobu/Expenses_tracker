@@ -10,6 +10,17 @@ Framework: Flask
 
 Database: SQLite3
 
+-Main funtionalities:
+
+The Expenses tracker web app could give the user a web tool to login with one username and
+password, in order to introduce the outcomes and incomes. Once the data is introduced, the
+user would be able to analyse it, so as to check how the money was spent, the current balance,
+but also plot the data in a graph.
+
+- Database structure: 
+
+![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Database.png)
+
 - Screens:
 
 1) Login screen:
