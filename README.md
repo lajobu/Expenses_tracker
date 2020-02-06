@@ -14,7 +14,7 @@ Database: SQLite3
 
 1) Login screen:
 
-
+![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Login.png)
 
 - User manual:
 
