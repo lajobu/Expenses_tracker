@@ -1,0 +1,32 @@
+#SQL queries:
+
+For this application I created seven queries:
+
+1)Create values: 
+
+- It creates the main values for the tables: Vendor, Category, User and
+Sender. Hence it populates the tables.
+
+2)Current balance:
+
+- It shows the current balance of the user: jorge10, total incomes minus total outcomes, returns a single value.
+
+3)Outcome vendor: 
+
+- It shows the total amount spent by vendor (Biedronka), for the user:
+
+4)Outcome category month year: 
+
+- It shows the total amount spent by category (Parties), for the user: jorge10, during the month of December 2019, returns a single value.
+
+5)Average spent category: 
+
+- Average spent by category (Rent), for the user: jorge10, returns a single value rounded up to two decimals.
+
+6)Outcome table: 
+
+- Table with amount_outcome, category_name and vendor_name, during December 2019, for the user: jorge10.
+
+7)Sum outcomes table:
+
+- Table with sum of the amount_outcome, during December 2019, for the user: jorge10.
