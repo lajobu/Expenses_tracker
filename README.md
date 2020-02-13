@@ -2,15 +2,15 @@
 
 Here you can find my first web app project.
 
-* [Front-end: HTML, CSS and JavaScript]
+* Front-end: HTML, CSS and JavaScript
 
-* [Back-end: Python (numpy, pandas and matplotlib)]
+* Back-end: Python (numpy, pandas and matplotlib)
 
-* [Framework: Flask]
+* Framework: Flask
 
-* [Database: SQLite3]
+* Database: SQLite3
 
-## [Main functionalities:
+## Main functionalities:
 
 The Expenses tracker web app could give the user a web tool to login with one username and
 password, in order to introduce the outcomes and incomes. Once the data is introduced, the
@@ -64,21 +64,21 @@ carefully.
 
 ### Please find further information about the navigation through the menu below:
 
-* [Main page: You will be able to return back to the main page.]
-* [Income: You will be able to introduce incomes data by several fields, also the
+* Main page: You will be able to return back to the main page.
+* Income: You will be able to introduce incomes data by several fields, also the
 username should be selected, please select your correct username before introducing
-the data. Once you introduced the incomes data, the button submit should be pressed.]
-* [Outcome: You will be able to introduce incomes data by several fields, also the
+the data. Once you introduced the incomes data, the button submit should be pressed.
+* Outcome: You will be able to introduce incomes data by several fields, also the
 username should be selected, please select your correct username before introducing
-the data. Once you introduced the outcomes data, the button submit should be pressed.]
-* [Analysis: You will be able to analyse the data introduced by several variables. This
+the data. Once you introduced the outcomes data, the button submit should be pressed.
+*Analysis: You will be able to analyse the data introduced by several variables. This
 functionality at the moment is only available for the user: jorge10, we are working to
-build it as soon as possible for the rest of the users.]
-* [Graphs: You will be able to plot a graph of the data introduced. This functionality at
+build it as soon as possible for the rest of the users.
+* Graphs: You will be able to plot a graph of the data introduced. This functionality at
 the moment is only available for the user: jorge10 and only for one graph, we are
-working to develop these functions as soon as possible.]
-* [Logout: You should press this once you finish your session, you will be redirected to
-the login page.]
+working to develop these functions as soon as possible.
+* Logout: You should press this once you finish your session, you will be redirected to
+the login page.
 
 In case of any question or suggestion, kindly contact the administrator: admin@gmailp.com
 
