@@ -10,7 +10,7 @@ Here you can find my first web app project.
 
 * **Database:** SQLite3
 
-## [Jupyer notebook](https://github.com/lajobu/Expenses_tracker/blob/master/expenses_tracker.ipynb)
+## [Jupyer notebook - Python](https://github.com/lajobu/Expenses_tracker/blob/master/expenses_tracker.ipynb)
 ## [SQL queries](https://github.com/lajobu/Expenses_tracker/tree/master/SQL)
 ## [HTML](https://github.com/lajobu/Expenses_tracker/tree/master/templates)
 ## [CSS](https://github.com/lajobu/Expenses_tracker/tree/master/static/css)
