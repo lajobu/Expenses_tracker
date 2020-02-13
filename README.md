@@ -1,14 +1,19 @@
-# Expenses_tracker
+# Expenses tracker web app
 
 Here you can find my first web app project.
 
-* Front-end: HTML, CSS and JavaScript
+* **Front-end:** HTML, CSS and JavaScript
 
-* Back-end: Python (numpy, pandas and matplotlib)
+* **Back-end:** Python (numpy, pandas and matplotlib)
 
-* Framework: Flask
+* **Framework:** Flask
 
-* Database: SQLite3
+* **Database:** SQLite3
+
+## [Jupyer notebook](https://github.com/lajobu/Expenses_tracker/blob/master/expenses_tracker.ipynb)
+## [SQL queries](https://github.com/lajobu/Expenses_tracker/tree/master/SQL)
+## [HTML](https://github.com/lajobu/Expenses_tracker/tree/master/templates)
+## [CSS](https://github.com/lajobu/Expenses_tracker/tree/master/static/css)
 
 ## Main functionalities:
 
