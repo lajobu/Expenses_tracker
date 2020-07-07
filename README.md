@@ -6,7 +6,7 @@ Here you can find my first web app project.
 
  :round_pushpin: **Front-end:** `HTML`, `CSS` and `JavaScript`
 
- :round_pushpin: **Back-end:** `Python` (numpy, pandas and matplotlib)
+ :round_pushpin: **Back-end:** `Python` (numpy, pandas  :panda_face: and matplotlib)
 
  :round_pushpin: **Framework:** `Flask`
 
