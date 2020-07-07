@@ -30,27 +30,27 @@ but also plot the data in a `graph`.
 
 ##  :star: Screens:
 
-### 1) Login screen:
+###  :ballot_box_with_check: 1) Login screen:
 
 ![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Login.png)
 
-### 2) Index screen:
+###  :ballot_box_with_check: 2) Index screen:
 
 ![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Index.png)
 
-### 3) Data form - Income screen:
+###  :ballot_box_with_check: 3) Data form - Income screen:
 
 ![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Income.png)
 
-### 4) Data form - Outcome screen:
+###  :ballot_box_with_check: 4) Data form - Outcome screen:
 
 ![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Outcome.png)
 
-### 5) Analysis screen:
+###  :ballot_box_with_check: 5) Analysis screen:
 
 ![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Analysis.png)
 
-### 6) Graphs screen:
+###  :ballot_box_with_check: 6) Graphs screen:
 
 ![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Graphs.png)
 
