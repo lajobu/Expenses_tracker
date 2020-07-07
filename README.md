@@ -87,5 +87,5 @@ working to develop these functions as soon as possible.
 * `Logout`: You should press this once you finish your session, you will be redirected to
 the login page.
 
-In case of any question or suggestion, kindly contact the administrator: `admin@gmailp.com`
+ :envelope: In case of any question or suggestion, kindly contact the administrator: `admin@gmailp.com`
 
