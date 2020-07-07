@@ -17,7 +17,7 @@ Here you can find my first web app project.
 ## [:white_check_mark: HTML](https://github.com/lajobu/Expenses_tracker/tree/master/templates)
 ## [:white_check_mark: CSS](https://github.com/lajobu/Expenses_tracker/tree/master/static/css)
 
-## Main functionalities:
+##  :star:Main functionalities:
 
 The Expenses tracker web app could give the user a web tool to login with one username and
 password, in order to introduce the outcomes and incomes. Once the data is introduced, the
