@@ -4,13 +4,13 @@
 
 Here you can find my first web app project.
 
-* **Front-end:** HTML, CSS and JavaScript
+ :round_pushpin: **Front-end:** HTML, CSS and JavaScript
 
-* **Back-end:** Python (numpy, pandas and matplotlib)
+ :round_pushpin: **Back-end:** Python (numpy, pandas and matplotlib)
 
-* **Framework:** Flask
+ :round_pushpin: **Framework:** Flask
 
-* **Database:** SQLite3
+ :round_pushpin: **Database:** SQLite3
 
 ## [:white_check_mark: Jupyer notebook - Python](https://github.com/lajobu/Expenses_tracker/blob/master/expenses_tracker.ipynb)
 ## [:white_check_mark: SQL queries](https://github.com/lajobu/Expenses_tracker/tree/master/SQL)
