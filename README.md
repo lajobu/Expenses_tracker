@@ -13,9 +13,9 @@ Here you can find my first web app project.
 * **Database:** SQLite3
 
 ## [:white_check_mark: Jupyer notebook - Python](https://github.com/lajobu/Expenses_tracker/blob/master/expenses_tracker.ipynb)
-## [SQL queries](https://github.com/lajobu/Expenses_tracker/tree/master/SQL)
-## [HTML](https://github.com/lajobu/Expenses_tracker/tree/master/templates)
-## [CSS](https://github.com/lajobu/Expenses_tracker/tree/master/static/css)
+## [:white_check_mark: SQL queries](https://github.com/lajobu/Expenses_tracker/tree/master/SQL)
+## [:white_check_mark: HTML](https://github.com/lajobu/Expenses_tracker/tree/master/templates)
+## [:white_check_mark: CSS](https://github.com/lajobu/Expenses_tracker/tree/master/static/css)
 
 ## Main functionalities:
 
