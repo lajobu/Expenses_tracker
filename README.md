@@ -17,18 +17,18 @@ Here you can find my first web app project.
 ## [:white_check_mark: HTML](https://github.com/lajobu/Expenses_tracker/tree/master/templates)
 ## [:white_check_mark: CSS](https://github.com/lajobu/Expenses_tracker/tree/master/static/css)
 
-##  :star:Main functionalities:
+##  :star: Main functionalities:
 
 The Expenses tracker web app could give the user a web tool to login with one username and
 password, in order to introduce the outcomes and incomes. Once the data is introduced, the
 user would be able to analyse it, so as to check how the money was spent, the current balance,
 but also plot the data in a graph.
 
-## Database structure: 
+##  :star: Database structure: 
 
 ![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Database.png)
 
-## Screens:
+##  :star: Screens:
 
 ### 1) Login screen:
 
@@ -54,7 +54,7 @@ but also plot the data in a graph.
 
 ![alt text](https://github.com/lajobu/Expenses_tracker/blob/master/Screens/Graphs.png)
 
-## User manual:
+##  :star: User manual:
 
 An email should be sent to the administrator: admin@gmailp.com for the creation of a new
 user, category, vendor or sender. Also, to create new analysis variables, graphs or amend any
