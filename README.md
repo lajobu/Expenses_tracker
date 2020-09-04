@@ -4,7 +4,8 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://expenses-tracker-python.herokuapp.com/)
 
-❗️ Username: jorge10
+🔴 Username: jorge10
+🔑 Password: jorbuepe123
 
 Here you can find my first web app project. 
 
