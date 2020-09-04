@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
+[![Deploy](https://expenses-tracker-python.herokuapp.com/)
+
 Here you can find my first web app project. 
 
  :round_pushpin: **Front-end:** `HTML`, `CSS` and `JavaScript` 
