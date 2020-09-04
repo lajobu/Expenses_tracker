@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-🔴 **Username: jorge10 🔴
+🔴 **Username:** jorge10 🔴
 
-🔑 **Password: jorbuepe123 🔑
+🔑 **Password:** jorbuepe123 🔑
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://expenses-tracker-python.herokuapp.com/)
 
