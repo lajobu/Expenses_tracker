@@ -417,4 +417,4 @@ def build_plot():
 
 if __name__ == "__main__":
     # Like that we do not need to restart the server every time
-    app.run(debug=True)
+    app.run(debug=False)
